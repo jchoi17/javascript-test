@@ -1,1 +1,1 @@
-# javascript-test
+# Instructor Demo
